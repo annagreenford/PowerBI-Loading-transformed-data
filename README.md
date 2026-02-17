@@ -2,7 +2,7 @@
 
 PowerBI exercises were perfomed online in Skillable Labs.
 In this lab we completed the following in the Power Query Editor window:
-1. rename queries
+1. renaming queries
 2. selecting columns
 3. sorting and filtering columns
 4. renaming, merging and removing columns
